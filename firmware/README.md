@@ -1,9 +1,13 @@
-# Gelato Espresso Multiserving
+# Gelato Espresso Multi-portion
 
 This firmware has been developed to manage every module of a machine that produces one gelato serving in 3-5 minutes
 It is completely written in micropython and use wifi for OTA update and BLE to communicate with and App
 
 ---
+
+There are several files in this project, let's explain the use:
+1. main.py è il file principale del progetto
+2. WIFI_CONFIG.py contiene SSID e PASSWORD per accedere alla rete WIFi
 
 # MicroPython Over-the-Air updater
 
