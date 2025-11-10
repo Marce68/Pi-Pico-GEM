@@ -1,0 +1,13 @@
+# B_SN = 'NNNNNN' # Board serial number: 6 caratteri ASCII (max 31 + 0x00)
+# M_SN = 'AAWW-LLLLL-PPPPPPPP' # Machine Serial Number: 19 caratteri ASCII (max 31 + 0x00)
+# BT_N = 'TOOA-***' # Bluetooth Name: 8 (16 da specifica ma l'App v3.0.0 non lo gestisce) caratteri ASCII (max 31 + 0x00)
+# FW_V = 'VN.N.NNN' # Firmware Version: 8 caratteri ASCII (max 15 + 0x00)
+# PA_V = 'PPPPPPPPPPPPPPPP' # Parameter Version: 16 caratteri ASCII (max 31 + 0x00)
+B_SN = 'NNNNNN'
+M_SN = 'AAWW-LLLLL-PPPPPPPP'
+BT_N = 'TOOA-***'
+FW_V = 'VN.N.NNN' 
+PA_V = 'PPPPPPPPPPPPPPPP'
+# SSID = 'A NETWORK' # WiFi SSID: max 31 caratteri ASCII + 0x00
+# PASSWORD = 'A PASSWORD' # WiFi Password: max 31 caratteri ASCII + 0x00
+# BT_A = 'AA:BB:CC:DD:EE:FF' # Bluetooth Address: 17 caratteri ASCII + 0x00
