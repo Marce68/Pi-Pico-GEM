@@ -1,3 +1,9 @@
+# Gelato Espresso Multiserving
+
+This firmware has been developed to manage every module of a machine that produces one gelato serving in 3-5 minutes
+It is completely written in micropython and use wifi for OTA update and BLE to communicate with and App
+---
+
 # MicroPython Over-the-Air updater
 
 This library enables you to update your MicroPython projects over the air, at start-up, or whenever you choose.
