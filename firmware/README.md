@@ -1,6 +1,6 @@
 # Gelato Espresso Multi-portion
 
-This directory contains the MicroPython firmware for the Milano machine using the new gem_main_board_r2 control board.
+This directory contains the MicroPython firmware for the Milano machine using the new `gem_main_board_r2` control board.
 This firmware has been developed for an ice cream maker (gelato maker) in which every module produces one gelato serving in 3-5 minutes.
 A machine can have from 1 to 8 modules.
 It is completely written in micropython and use wifi for OTA update and BLE to communicate with and App
@@ -8,8 +8,8 @@ It is completely written in micropython and use wifi for OTA update and BLE to c
 ---
 
 There are several files in this project, let's explain the use:
-1. main.py as usual is the main module of the project
-2. WIFI_CONFIG.py contains SSID and PASSWORD to access WIFi network
+1. `main.py` as usual is the main module of the project
+2. `WIFI_CONFIG.py` contains `SSID` and `PASSWORD` to access `WiFi` network
 3. ....
 
 # MicroPython Over-the-Air updater
