@@ -1,3 +1,4 @@
+# COPY STORED IN GITHUB ###########################################
 # main-evo4_0.py saved on 2025-11-18
 # Firmware per macchina del gelato TooA GEM
 # Bluetooth: aggiunto il Device Info Service 0x180A
