@@ -1,8 +1,8 @@
 {
-  "version" : 5,
+  "version" : 6,
   "ota" : 1,
-  "adv" : 1,
-  "ble" : 1,
-  "start" : 1,
-  "date" : "2025-11-28"
+  "adv" : 0,
+  "ble" : 0,
+  "start" : 0,
+  "date" : "2026-02-03"
 }
